@@ -1,0 +1,28 @@
+.mylogo{
+	width:30%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.mylogo2{
+	width: 80%;
+}
+.mylogo3{
+	width: 90%;
+}
+body{
+	background-color:rosybrown;
+}
+h1{
+	background-color: lavenderblush;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+p{
+	font-weight: bold;
+	border:double;
+	background-color: lavenderblush;
+	font-size: 15pt;
+	text-align: center;
+}
