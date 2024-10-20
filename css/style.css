@@ -8,13 +8,13 @@
 	width: 80%;
 }
 .mylogo3{
-	width: 90%;
+	width: 85%;
 }
 body{
-	background-color:rosybrown;
+	background-color:lightsteelblue;
 }
 h1{
-	background-color: lavenderblush;
+	background-color:lightcyan;
 	text-align: center;
 	font-weight: bold;
 	font-style: italic;
@@ -22,7 +22,17 @@ h1{
 p{
 	font-weight: bold;
 	border:double;
-	background-color: lavenderblush;
+	background-color: lightcyan;
 	font-size: 15pt;
 	text-align: center;
+}
+p2{
+	font-weight: bold;
+	border:double;
+	background-color: lightcyan;
+	font-size: 15pt;
+	text-align: center;
+}
+.card{
+	background-color:lightsteelblue;
 }
