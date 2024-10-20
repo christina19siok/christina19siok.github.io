@@ -35,4 +35,8 @@ p2{
 }
 .card{
 	background-color:lightsteelblue;
+	border: none;
+}
+.gif{
+	width:30%;
 }
